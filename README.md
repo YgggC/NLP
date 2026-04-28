@@ -33,12 +33,6 @@ It covers both **classical NLP methods** and **modern deep learning approaches**
 * Experimented with vision-language models
 * Investigated prompt behavior under quantization (4-bit)
 
-### 4. Chinese NLP Exploration
-
-* Investigated challenges in Chinese word segmentation
-* Compared tokenization strategies
-* Shared insights in class discussions
-
 ## Key Takeaways
 
 * Strong understanding of both statistical and neural NLP methods
